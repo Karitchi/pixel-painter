@@ -1,3 +1,3 @@
-# Maze-generator
+# pixel-painter
 
-A basic html/js/css maze generator.
+A basic html/js/css pixel art painter.
